@@ -98,7 +98,7 @@ to add new and/or missing endpoints. Currently, the following services are suppo
 ## Usage
 
 ```go
-import "github.com/xanzy/go-gitlab"
+import "github.com/zkmoney/go-gitlab"
 ```
 
 Construct a new GitLab client, then use the various services on the client to
@@ -144,7 +144,7 @@ package main
 import (
 	"log"
 
-	"github.com/xanzy/go-gitlab"
+	"github.com/zkmoney/go-gitlab"
 )
 
 func main() {
